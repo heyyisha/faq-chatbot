@@ -20,5 +20,5 @@ A simple chatbot that answers frequently asked questions about Python programmin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/faq-chatbot.git
+   git clone https://github.com/heyyisha/faq-chatbot.git
    cd faq-chatbot
